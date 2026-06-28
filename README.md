@@ -10,6 +10,6 @@ This library computes VNL natively on the GPU without Python loops. By utilizing
 # Installation
 
 ```bash
-git clone [https://github.com/dhyey004/vnl_loss.git](https://github.com/dhyey004/vnl_loss.git)
+git clone  https://github.com/dhyey004/vnl_loss.git
 cd vnl_loss
 pip install -e .
