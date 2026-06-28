@@ -1,0 +1,17 @@
+# Virtual Environments
+venv/
+env/
+vnl/
+.env
+
+# Python Cache & Build files
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+
+# IDE files (VS Code, etc.)
+.vscode/
+.idea/
